@@ -1,0 +1,3 @@
+Napisz program, który zapyta o nazwê pliku tekstowego a nastêpnie sprawdzi ile linii ma ten
+plik i jeœli liczba linii. bêdzie wiêksza od 3 to wyœwietli ostatnie 3 linie w ten sposób, ¿e
+pierwsza zostanie wyœwietlona ostatnia linia, potem zostanie wyœwietlona przedostatnia linia
